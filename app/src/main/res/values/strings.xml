@@ -1,14 +1,14 @@
 <resources>
-    <string name="app_name">Hello Squirrel</string>
+    <string name="app_name">Hello-Sonu-Android</string>
 
-    <string name="first_name">FIRST</string>
-    <string name="last_name">LAST</string>
+    <string name="first_name">SONU</string>
+    <string name="last_name">GUPTA</string>
     <string name="full_name">%s %s</string>
 
-    <string name="profile_bio_text">This a short bio about myself.\nIt has multiple lines because I am\na complex being.</string>
-
-    <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
-    <string name="profile_hobby_first_text">🥇 FIRST HOBBY</string>
-    <string name="profile_hobby_second_text">🥈 SECOND HOBBY</string>
-    <string name="profile_hobby_third_text">🥉 THIRD HOBBY</string>
+    <string name="profile_bio_text">Hi! I am a First-gen College Student 👨🏾‍🎓,\nSoftware Engineer👨‍💻 and Diversity Lead\nbased in United States 🇺🇸  with a passion\n\t\tfor growing, investing and learning.</string>
+//Hi! I am a software engineer 👨‍💻, college student, and intercultural development leader \n based in United States
+    <string name="profile_hobby_header_text">FAVORITE HOBBIES:</string>
+    <string name="profile_hobby_first_text">🥇 Watching movies</string>
+    <string name="profile_hobby_second_text">🥈 Cooking international food</string>
+    <string name="profile_hobby_third_text">🥉 Discovering new music</string>
 </resources>
