@@ -3,7 +3,7 @@
 Submitted by: **Sonu Gupta**
 
 Time spent: **5** hours spent in total
-(invested a lot in UI and researching Kotlin and xml attributes)
+(invested majority hours towards UI and researching Kotlin and XML attributes)
 
 ## Summary
 
