@@ -11,6 +11,17 @@ Time spent: **5** hours spent in total
 
 If I had to describe this project in three (3) emojis, they would be: **:man_student: :man_technologist: :baby_chick:**
 
+## Video Demo
+
+Here's a video / GIF that demos all of the app's implemented features:
+
+https://github.com/Dxsonu7/Hello-Sonu-Android/assets/87947158/c8e4119b-d7f0-4af7-bf86-7c6dfb39018d
+
+
+## Notes
+
+This project allowed me to exoplore Android Studio, Kotlin, and XML 
+
 ## Application Features
 
 <!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
@@ -29,17 +40,6 @@ The following STRETCH features are implemented:
 The following EXTRA features are implemented:
 
 - [x] Added avatar to resemble me and added text background
-
-## Video Demo
-
-Here's a video / GIF that demos all of the app's implemented features:
-
-https://github.com/Dxsonu7/Hello-Sonu-Android/assets/87947158/c8e4119b-d7f0-4af7-bf86-7c6dfb39018d
-
-
-## Notes
-
-This project allowed me to exoplore Android Studio, Kotlin, and XML 
 
 ## License
 
