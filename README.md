@@ -1,4 +1,4 @@
-# AND101 Project 1 - Hello, Squirrel!
+# Hw=ello-Sonu-Android
 
 Submitted by: **Sonu Gupta**
 
